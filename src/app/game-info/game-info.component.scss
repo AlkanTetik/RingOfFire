@@ -1,0 +1,15 @@
+.card-content {
+    position: absolute;
+    bottom: 32px;
+    left: 100px;
+    right: 100px;
+    padding: 20px;
+}
+
+.mat-mdc-card-content:last-child {
+    padding-bottom: 0;
+}
+
+.mat-mdc-card-content {
+    padding: 0;
+}
